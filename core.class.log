@@ -1,0 +1,43 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215545165166@s.whatsapp.net',
+    fromMe: false,
+    id: '3A56AD62B3C927039825',
+    participant: undefined
+  },
+  messageTimestamp: 1737853740,
+  pushName: 'Marcos 🍊',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5215545165166'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_32cd04c3-ca43-4ad3-8ae3-7085a1d2f1cf',
+  keyword: 'key_1d300629-3089-463f-896e-fd82f7195788',
+  answer: {
+    buttons: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    title: 'Selecciona una opción:',
+    footer: 'Escribe el número o selecciona una opción.'
+  },
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b967739132578ff992bbc0a9d54ced1'
+}
