@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5215545165166@s.whatsapp.net',
     fromMe: false,
-    id: '3A56AD62B3C927039825',
+    id: '3AA0B1A4E1B49335B76D',
     participant: undefined
   },
-  messageTimestamp: 1737853740,
+  messageTimestamp: 1737856827,
   pushName: 'Marcos 🍊',
   broadcast: false,
   message: Message {
@@ -20,13 +20,13 @@
   from: '5215545165166'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_32cd04c3-ca43-4ad3-8ae3-7085a1d2f1cf',
-  keyword: 'key_1d300629-3089-463f-896e-fd82f7195788',
-  answer: {
-    buttons: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
-    title: 'Selecciona una opción:',
-    footer: 'Escribe el número o selecciona una opción.'
-  },
+  ref: 'ans_7af9fab9-077d-4f6b-a1da-9855b31ead46',
+  keyword: 'key_2f3b4bf2-e391-454f-816d-9d4a070f352c',
+  answer: 'Elegi una de estas opciones:\n' +
+    '\n' +
+    'Opcion 1 - Menu\n' +
+    'Opcion 2 - Reservar\n' +
+    'Opcion 3 - Hacer Consultas',
   options: {
     media: null,
     buttons: [],
@@ -39,5 +39,129 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '0b967739132578ff992bbc0a9d54ced1'
+  refSerialize: '710d639b6cd85fe87f5fee1dee789f1a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215545165166@s.whatsapp.net',
+    fromMe: false,
+    id: '3A36E5AB28D50A7F806C',
+    participant: undefined
+  },
+  messageTimestamp: 1737856833,
+  pushName: 'Marcos 🍊',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5215545165166'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215545165166@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEB4EE36C8CD6FF272E',
+    participant: undefined
+  },
+  messageTimestamp: 1737856836,
+  pushName: 'Marcos 🍊',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5215545165166'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4d9616e7-8781-4dfe-b89c-6f0c5e98cfea',
+  keyword: 'key_36d29ed5-17d4-478a-a76b-3de2fccfb74a',
+  answer: 'Este es el flujo welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c097f512cc38f60bfc3d65d7ec31493d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215545165166@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0789DC69FEE2544C3D',
+    participant: undefined
+  },
+  messageTimestamp: 1737856844,
+  pushName: 'Marcos 🍊',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5215545165166'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7af9fab9-077d-4f6b-a1da-9855b31ead46',
+  keyword: 'key_2f3b4bf2-e391-454f-816d-9d4a070f352c',
+  answer: 'Elegi una de estas opciones:\n' +
+    '\n' +
+    'Opcion 1 - Menu\n' +
+    'Opcion 2 - Reservar\n' +
+    'Opcion 3 - Hacer Consultas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '710d639b6cd85fe87f5fee1dee789f1a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215545165166@s.whatsapp.net',
+    fromMe: false,
+    id: '3A957F2F20D5153AFBAA',
+    participant: undefined
+  },
+  messageTimestamp: 1737856850,
+  pushName: 'Marcos 🍊',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5215545165166'
 }

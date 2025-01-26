@@ -6,6 +6,10 @@ const {
   EVENTS,
 } = require('@bot-whatsapp/bot');
 
+const { flowConsultas } = require('./flows/flowConsultas');
+const { flowMenuRest } = require('./flows/flowMenuRest');
+const { flowReservar } = require('./flows/flowReservar');
+
 const QRPortalWeb = require('@bot-whatsapp/portal');
 const BaileysProvider = require('@bot-whatsapp/provider/baileys');
 const MockAdapter = require('@bot-whatsapp/database/mock');
@@ -34,22 +38,18 @@ const menuFlow = addKeyword('menu').addAnswer(
   menu,
   { capture: true },
   async (ctx, { gotoFlow, fallBack, flowDynamic }) => {
-    if (!['1', '2', '3', '4', '5', '0'].includes(ctx.body)) {
+    if (!['1', '2', '3', '0'].includes(ctx.body)) {
       return fallBack(
         'Respuesta no válida, por favor selecciona una de las opciones.',
       );
     }
     switch (ctx.body) {
       case '1':
-        return await flowDynamic('menu1');
+        return gotoFlow(flowMenuRest);
       case '2':
-        return await flowDynamic('menu2');
+        return gotoFlow(flowReservar);
       case '3':
-        return await flowDynamic('menu3');
-      case '4':
-        return await flowDynamic('menu4');
-      case '5':
-        return await flowDynamic('menu5');
+        return gotoFlow(flowConsultas);
       case '0':
         return await flowDynamic(
           'Saliendo... Puedes volver a acceder a este menú escribiendo',
@@ -60,7 +60,14 @@ const menuFlow = addKeyword('menu').addAnswer(
 
 const main = async () => {
   const adapterDB = new MockAdapter();
-  const adapterFlow = createFlow([flowPrincipal, flowWelcome, menuFlow]);
+  const adapterFlow = createFlow([
+    flowPrincipal,
+    flowWelcome,
+    menuFlow,
+    flowMenuRest,
+    flowConsultas,
+    flowReservar,
+  ]);
   const adapterProvider = createProvider(BaileysProvider);
 
   createBot({

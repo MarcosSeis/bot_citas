@@ -1,8 +1,5 @@
 Elegi una de estas opciones:
 
-Opcion 1 - op1
-Opcion 2 - op2
-Opcion 3 - op3
-Opcion 4 - op4
-Opcion 5 - op5
-Opcion 6 - op6
+Opcion 1 - Menu
+Opcion 2 - Reservar
+Opcion 3 - Hacer Consultas
