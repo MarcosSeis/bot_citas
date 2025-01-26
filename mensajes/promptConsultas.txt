@@ -1,0 +1,459 @@
+Eres un asesor de un restaurante llamado "LAS ALITAS" que responde preguntas frecuentes de el mismo.
+Responde con mensajes cortos y precisos. Te voy a dar el menu que tenemos disponible:
+
+
+Las Alitas
+
+    Entradas
+    Mc&Cheese
+    Ensaladas
+    Alitas
+    Boneless
+    Hamburguesas & Sandwiches
+    Strippers
+    Ribs& Wings
+    Para Niños
+    Refrescos y Bebidas
+    Postres
+    Cervezas en Botella
+    Cervezas en Lata
+    Vaso-Cerveza de Barrill
+    Tarrotes- Cerveza de Barril
+    Jarras-Cerveza de Barril
+    Michalitas
+    Drinks con Alcohol
+    Mocktails & Drinks sin Alcohol
+    Destilados
+
+Entradas
+Papas a la Francesa
+300 g de las clásicas y deliciosas papas a la francesa.
+MXN 89.00
+Las Cambrashians
+Deliciosa papa cambray (400 g) bañadas en una combinación de mantequilla (15 ml) y salsa a elección (120 ml). Acompañadas con una capa superior de aderezo ranch (30 ml) y espolvoreadas con chile triturado y perejil. ¡Te recomendamos pedirlas bañadas con Salsa Lemon Pepe o habañera!
+MXN 119.00
+Aros de cebolla
+Crujientes y doraditos aros de cebolla (200 g) acompañados de jícamas a la francesa y chilito en polvo.
+MXN 99.00
+Elotitos preparados
+2 medios elotitos amarillos asados a la parrilla y aderezados con Ranch, queso panela y chilito.
+MXN 99.00
+Robbys
+4 ricos jalapeños empanizados bien rellenitos de queso crema, bañados con mucha salsa de queso y trocitos de tocino, acompañados con un ramekin de aderezo Dr Heaven.
+MXN 99.00
+Cheese pops
+Comparte estas 6 barritas de queso gouda (180 g) empanizadas con nuestro panko y acompañadas con deliciosa salsa barbinara y salsa Berry Chipotle para chopear.
+MXN 139.00
+Nunca He Venido
+¡Todo un clásico! Robbys (2pzas) Cheese pops (2 pzas) Búfalo ruffles (100 g) Chepos (90g) nuestras legendarias Alitas (280 g) y jugositos boneless (100 g) bañados en tu salsa favorita. Acompañados de salsa berry chipotle, blue cheese y vegetales frescos (120 g).
+MXN 329.00
+Pa La Banda
+Los favoritos de la banda en un plato. Deliciosas tiritas de pechuga de pollo (150g) con nuestro empanizador spicy, Robbys (2pzas), papas a la francesa (150g) papas búfalo ruffle (150 g) con salsa de queso, crema ácida y trozos de tocino. Cheese pops (2pzas), Aros de cebolla (100 g) y vegetales frescos (130 g). Acompañados con salsa barbinara y aderezo Dr. Heaven.
+MXN 299.00
+Extra salsa de queso
+Pídelo para cualquiera de tus entradas como extra
+MXN 19.00
+Extra chili beans
+Pídelo para cualquiera de tus entradas como extra
+MXN 29.00
+Mc&Cheese
+Mc&cheese
+La clásica y deliciosa combinación de pasta (200g) y salsa de queso acompañada de queso cheddar líquido, tocino y perejil picado.
+MXN 169.00
+Mc&Boneless
+Con todo el amor de La Alitas. Combinación de pasta (200 g) y salsa de queso acompañada de nuestros emblemáticos boneless (7 pzas), queso y perejil picado. ¡Pídelos en tu salsa favorita!
+MXN 214.00
+Ensaladas
+La ensalada de mi jefa (mediana)
+Nuestra clásica ensalada de la casa hecha con lechugas mixtas, zanahoria rallada, pepino, y tomate, espolvoreada con queso parmesano, semillas de girasol y crujientes crutones, acompañada con aderezo Ranch.
+MXN 89.00
+La ensalada de mi jefa (grande)
+Nuestra clásica ensalada de la casa hecha con lechugas mixtas, zanahoria rallada, pepino, y tomate, espolvoreada con queso parmesano, semillas de girasol y crujientes crutones, acompañada con aderezo Ranch.
+MXN 119.00
+La ensalada de mi jefa con Pollo
+Tamaño Mediana. Nuestra clásica ensalada de la casa hecha con lechugas mixtas, zanahoria rallada, pepino, y tomate, espolvoreada con queso parmesano, semillas de girasol y crujientes crutones, acompañada con aderezo Ranch.
+MXN 119.00
+La ensalada de mi jefa con Pollo
+Tamaño Grande. Nuestra clásica ensalada de la casa hecha con lechugas mixtas, zanahoria rallada, pepino, y tomate, espolvoreada con queso parmesano, semillas de girasol y crujientes crutones, acompañada con aderezo Ranch.
+MXN 169.00
+Pocho salad Mediana
+La ensalada favorita de Las Alitas, con pechuga de pollo empanizada bañada en tu salsa favorita, sobre lechugas mixtas, queso Monterrey Jack, pico de gallo y tiritas de tortilla doradas al momento, acompañado con aderezo Ranch.
+MXN 149.00
+Pocho Salad Grande
+La ensalada favorita de Las Alitas, con pechuga de pollo empanizada bañada en tu salsa favorita, sobre lechugas mixtas, queso Monterrey Jack, pico de gallo y tiritas de tortilla doradas al momento, acompañado con aderezo Ranch.
+MXN 199.00
+Alitas
+Alitas Snack
+Nuestras ya emblematicas y deliciosas alitas (420 g) bañadas en tu salsa favorita, acompañadas de verduras bien fresquecitas y aderezo blue cheese.
+MXN 174.00
+Alitas Personales
+Alitas (630 g) bañadas en la salsa de tu elección, acompañadas de verduras bien fresquecitas y aderezo blue cheese.
+MXN 229.00
+Alitas Dobles
+Deliciosas alitas 1,260 g) bañadas en la salsa de tu elección, acompañadas de verduras bien fresquecitas y aderezo blue cheese.
+MXN 399.00
+Platón Alitas
+El original y más grande platón de alitas (1,750 g) en la salsa de tu elección, acompañadas con aderezo blue cheese (120 g). No incluye papas fritas ni verduras. No aplica término al carbón.
+MXN 499.00
+Boneless
+Boneless Snack
+Jugosa y fresca pechuga (120 g) cortada en trozos empanizados, cocinados al momento y bañados en salsa de tu elección, con verduras y aderezo a elegir. Acompañados con papas fritas (150 g) como guarnición.
+MXN 159.00
+Platon Boneless
+Generosa porción de boneless (40 piezas) bañados en tu salsa favorita y acompañados con aderezo a elegir. No incluye papas fritas ni verduras. No aplica término al carbón. Opción 2 salsas.
+MXN 499.00
+Boneless Personales
+Jugosa y fresca pechuga (200 g) cortada en trozos empanizados, cocinados al momento y bañados en salsa de tu elección, con zanahoria y apio y aderezo a elegir. Acompañados con papas fritas (150 g) como guarnición.
+MXN 209.00
+Boneless Dobles
+Jugosa y fresca pechuga (400 g) cortada en trozos empanizados, cocinados al momento y bañados en salsa de tu elección, con zanahoria y apio y aderezo a elegir. Acompañados con papas fritas (150 g) como guarnición.
+MXN 359.00
+Hamburguesas & Sandwiches
+La Clásica
+Nuestra hamburguesa clásica preparada con jugosa y ahumada carne de res (200 gr) condimentada con una mezcla secreto de especias, queso cheddar derretido, lechuga y tomate sobre pan brioche con mantequilla
+MXN 189.00
+Choripotter
+Nuestra hamburguesa mas mexicana preparada con chorizo doradito, queso manchego derretido, tiritas de tortilla de maíz y salsa chipotle chillón, sobre una jugosa carne de res (200g) con una base de aguacate.
+MXN 199.00
+Bebeicon
+Delicioso tocino doradito, aros de cebolla empanizados, saslsa texas BBQ wings!, queso cheddar derretido sobre una jugosa carne de res (200 g) condimentada con nuestra mezcla secreta de especias.
+MXN 214.00
+Wonderland
+Alucinante mezcla de champiñones y cebolla, salteados y sazonados con nuestra receta secreta y queso manchego fundido sobre una humeante carne de res (200g) en una cama de espinaca baby.
+MXN 199.00
+Millonaria
+Con mucho aguacate porque el antojo lo vale, carne de res (200 g), queso panela a la plancha, aderezado con ranch, lechuga orejona, espinaca baby y tomate.
+MXN 214.00
+Hawaian BBQ
+La mejor hawaiana que hayas probado. Jugosita y ahumada carne al carbón (200 g), montada sobre una cama de espinaca y queso crema. Con manchego fundido, cebollita asada y dos rebanadas de piña caramelizada en salsa texas bbq wings! Mas salsa en la base y aderezo blue cheese smoke en la tapa.
+MXN 219.00
+Buffalo Wing Sandwich
+¡Nuestro más grandioso sandwich! Crujiente pechuga de pollo (230 g) empanizada y bañada en nuestra salsa original, con queso manchego, lechuga, tomate, cebolla, zanahoria rallada y aderezo blue ranch en pan brioche.
+MXN 209.00
+Grilled cheese sandwich
+Deliciosa mezcla de quesos derretidos al grill sobre una crujiente pechuga de pollo empanizada (230 g), con un topping de trocitos de tocino y aguacate.
+MXN 219.00
+Devil chicken sandwich
+Un sabor infernalmente delicioso, sandwich en pan brioche con aderezo Dr heaven, con pechuga de pollo (230 g) en empanizador picante bañados en salsa de la casa Nashville con Dr. Heaven (60 ml) con col blanca y morada (80 g) en aderezo Honey mustard y pepino de la casa en vinagre (6 pzas).
+MXN 219.00
+Strippers
+Strippers Snack
+¡La porción ideal para tu antojo! Jugosas y crujientes tiritas de pollo (150g) con empanizado spicy , sobre una cama de papas a la francesa (250 g) espolvoreadas con Lemon pepe. Con salsita y aderezo de tu elección.
+MXN 144.00
+Strippers Clásicos
+Nuestra famosa y jugosa pechuga de pollo (230 g) cubierta con nuestro empanizador crujiente, servida con vegetales frescos, salsa y aderezo a elegir. Como guarnición, papas a la francesa (300 g).
+MXN 199.00
+Strippers Al grill
+Humeante pechuga de pollo (230 g) marinada y cocinada al carbón, servida con verduras asadas, cebolla sazonada y salsa Berry chipotle. Elige dos guarniciones: Ensalada fresca, jicamas a la francesa, elotito preparado o puré de papa.
+MXN 209.00
+Magic mike hot strippers
+MXN 204.00
+Ribs& Wings
+Ribs N’ Wings
+Suaves y jugosas costillitas (210 g) servidas con nuestras emblemáticas alitas (420g) con la salsa que prefieras, aderezo blue cheese y vegetales frescos. Lleva como guarnición medio elotito preparado.
+MXN 299.00
+Costillas
+Nuestras suaves y jugosas costillitas de puerco (420g) ahumadas al mezquite, sazonadas y asadas a la parrilla, bañadas en nuestra salsa Texas BBQ wings! O la que tu quieras. Le acompañan medio elotito preparado y puré de papa como guarniciones.
+MXN 319.00
+Para Niños
+Chikistrippers grill
+Ricas tiritas de pechuga a la parrilla (115 g) acompañadas de papas a la francesa (150 g) con opción o cambio a ensaladita o 1 pieza de elotito y salsa catsup por separado. Este platillo incluye: Limonada, naranjada o refresco refill + cono de viene (helado sabor vainilla 40 g)
+MXN 159.00
+Chikistrippers
+Ricas tiritas de pechuga empanizada (115 g) acompañadas de papas a la francesa (150 g) y salsa catsup por separado. Este platillo incluye: Limonada, naranjada o refresco refill + cono de viene (helado sabor vainilla 40 g)
+MXN 159.00
+Mc&kids
+Pasta en salsa de queso con un toque picosito (100g) con pechuga a la parrilla (115g), tocino. Acompañado de papas fritas (100g) y salsa Barbinara.
+MXN 164.00
+Mc&kids Boneless
+Pasta en salsa de queso con un toque picosito (100g) con boneless (4pzs), queso y perejil. Acompañado de salsa catsup.
+MXN 169.00
+Termoalito
+Mágico, cambia de color. Incluye refresco o limonada refill.
+MXN 25.00
+Refrescos y Bebidas
+Limonada Fresa
+480 ml
+MXN 50.00
+Limonada Mango
+480 ml
+MXN 50.00
+Limonada Maracuya
+480 ml
+MXN 50.00
+Coca Cola Refill
+473 ml
+MXN 54.00
+Coca Cola Light Refill
+473 ml
+MXN 54.00
+Fanta Naranja sin Azucar Refill
+473 ml
+MXN 54.00
+Limonada Refill
+473 ml Natural, mineral, regular o light.
+MXN 54.00
+Naranjada Refill
+473 ml
+MXN 54.00
+Té helado Refill
+473 ml
+MXN 54.00
+Coca Cola Lata
+355 ml
+MXN 39.00
+Coca Cola Sin Azúcar Lata
+355 ml
+MXN 39.00
+Coca Cola Light Lata
+355 ml
+MXN 39.00
+Fanta Lata
+355 ml
+MXN 39.00
+Sprite Lata
+355 ml
+MXN 39.00
+Manzana Lata
+355 ml
+MXN 39.00
+Agua Botella
+500 ml
+MXN 37.00
+Agua Mineral
+355 ml consulta disponibilidad en botella por sucursal
+MXN 39.00
+Postres
+Helado de vainilla
+23 g de helado.
+MXN 59.00
+Wingañuelo Vainilla
+160 g de helado.
+MXN 59.00
+Brownieland
+160 g de helado.
+MXN 129.00
+Oro Fries
+80 g de helado
+MXN 129.00
+Mango Cheesecake
+MXN 119.00
+Strawberry Cheesecake
+MXN 119.00
+Cervezas en Botella
+Tecate Light
+325 ml
+MXN 55.00
+Tecate Original
+325 ml
+MXN 55.00
+Indio
+325 ml
+MXN 55.00
+Dos equis lager
+325 ml
+MXN 55.00
+Dos equis ambar
+325 ml
+MXN 55.00
+Bohemia clara
+355 ml
+MXN 59.00
+Bohemia oscura
+355 ml
+MXN 59.00
+Bohemia Weizen
+355 ml
+MXN 59.00
+Tecate 0.0
+325 ml
+MXN 55.00
+Heineken
+355 ml
+MXN 55.00
+Heineken 0.0
+250 ml
+MXN 59.00
+Heineken Light
+355 ml
+MXN 59.00
+Heineken Silver
+355 ml
+MXN 59.00
+Grand Heineken
+1000 ml
+MXN 109.00
+Amstel
+355 ml
+MXN 59.00
+Cervezas en Lata
+Tecate Light Lata
+355 ml (no disponible en CDMX y EdoMex)
+MXN 55.00
+Tecate Original
+355 ml (no disponible en CDMX y EdoMex)
+MXN 55.00
+Dos equis Lager
+355 ml (no disponible en CDMX y EdoMex)
+MXN 55.00
+Indio
+355 ml (no disponible en CDMX y EdoMex)
+MXN 55.00
+Vaso-Cerveza de Barrill
+Tecate Original o Light Vaso
+Vaso de 414 ml
+MXN 55.00
+Indio Vaso
+Vaso de 414 ml
+MXN 55.00
+Heineken Vaso 250 ml
+Vaso 250 ml
+MXN 45.00
+Heineken Vaso 414 ml
+Vaso 414 ml
+MXN 65.00
+Tarrotes- Cerveza de Barril
+Tecate Original o Light Tarrote
+857 ml
+MXN 89.00
+Indio Tarrote
+857 ml
+MXN 89.00
+XX Laguer Tarrote
+857 ml
+MXN 89.00
+Jarras-Cerveza de Barril
+Tecate Light/ Original Jarra
+1390 ml
+MXN 149.00
+Indio Jarra
+1390 ml
+MXN 149.00
+XX Laguer Jarra
+1390 ml
+MXN 149.00
+Heineken Jarra
+1390 ml
+MXN 154.00
+Michalitas
+Chalita
+60 ml
+MXN 20.00
+Clamato
+192 ml
+MXN 20.00
+Original
+74 ml
+MXN 20.00
+Chamoy
+67 ml
+MXN 20.00
+Pepino
+74 ml
+MXN 20.00
+Mango
+74 ml
+MXN 20.00
+Drinks con Alcohol
+Carajillo Shake
+Espresso, Licor 43, mezclado y servido en las rocas (120 ml) Sujeto a disponibilidad por sucursal
+MXN 124.00
+Mojito Shico!
+Ron, Limón, mojito mix y hierbabuena (480 ml)
+MXN 96.00
+Piña Colada
+Ron, Malibú, Baileys y piña mix (405 ml)
+MXN 119.00
+Margarita Fresita con Alcohol
+405 ml con Alcohol
+MXN 119.00
+Margarita Maracuya con Alcohol
+405 ml con Alcohol
+MXN 119.00
+Margarita Tamarindo con Alcohol
+405 ml con Alcohol
+MXN 119.00
+Margarita Mangamoy
+405 ml con Alcohol
+MXN 119.00
+Mezcalita Tamarindo
+Elaborada con tamarindo natural, mezcal, escarchado de mango, Tajín y paleta de tamarindo (480 ml).
+MXN 139.00
+Mezcalita Maracuyá
+Preparada con maracuyá, un punch de mezcal, escarchada con mango y Tajín (480 ml).
+MXN 139.00
+Mezcalita Fresa
+Mezcla perfecta entre la fresa, arándano y el mezcal, decorado con berries (480 ml).
+MXN 139.00
+Mezcalita Mango
+Irresistible sabor a mango, con un toque de mezcal y cerveza oscura (480 ml).
+MXN 155.00
+Mocktails & Drinks sin Alcohol
+Mocktail Kiwi Maracuyá
+El más refrescante de nuestros mocktails, hecho con maracuyá, kiwi y un toque de hierbabuena (480 ml).
+MXN 69.00
+Mocktail Mango Mandarina
+Si eres amante de los cítricos, te va a encantar por su mezcla de mandarina con mango y brocheta de frutos rojos (480 ml).
+MXN 69.00
+Piña colada
+Ron, Malibú, Baileys y piña mix (405 ml) sin alcohol
+MXN 89.00
+Margarita Fresita
+Sin alcohol 405 ml
+MXN 89.00
+Destilados
+Whiskey Johnnie Walker Black Label
+44 ml
+MXN 114.00
+Whiskey Johnnie Walker Red Label
+44 ml
+MXN 94.00
+Whiskey Jack Daniel’s
+44 ml
+MXN 104.00
+Whiskey Buchanan’s 12 años
+44 ml
+MXN 104.00
+Ron capitán morgan
+44 ml
+MXN 84.00
+Ron Bacardi blanco
+44 ml
+MXN 99.00
+Ron bacardí mango
+44 ml
+MXN 77.00
+Vodka Smirnoff Tamarindo
+44 ml
+MXN 77.00
+Vodka Absolute Blue
+44 ml
+MXN 99.00
+Mezcal 400 Conejos
+44 ml
+MXN 114.00
+Mezcal Ojo de Tigre
+44 ml
+MXN 119.00
+Tequila Tradicional
+44 ml
+MXN 94.00
+Tequila maestro Dobel Diamante
+44 ml
+MXN 119.00
+Tequila Don julio 70
+44 ml
+MXN 129.00
+Ginebra Tanqueray
+44 ml
+MXN 114.00
+Torres 10
+44 ml
+MXN 84.00
+Baileys
+44 ml
+MXN 84.00
+Licor 43
+44 ml
+MXN 74.00
+

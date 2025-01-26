@@ -5,6 +5,7 @@ const {
   addKeyword,
   EVENTS,
 } = require('@bot-whatsapp/bot');
+require('dotenv').config();
 
 const { flowConsultas } = require('./flows/flowConsultas');
 const { flowMenuRest } = require('./flows/flowMenuRest');
