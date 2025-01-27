@@ -1,5 +1,7 @@
 ### CHATBOT Whatsapp (Baileys Provider)
 
+ESTA ES UNA BASE PARA EMPEZAR A TRABAJAR BOTS Y NO PARTIR DE CERO
+
 <p align="center">
   <img width="300" src="https://i.imgur.com/Oauef6t.png">
 </p>
