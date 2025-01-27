@@ -2,136 +2,67 @@
   key: {
     remoteJid: '5215545165166@s.whatsapp.net',
     fromMe: false,
-    id: '3A6B4CFD82CD5D6B46BE',
+    id: '3AE3427714AC14A6BF91',
     participant: undefined
   },
-  messageTimestamp: 1737865092,
+  messageTimestamp: 1737937569,
   pushName: 'Marcos 🍊',
   broadcast: false,
   message: Message {
-    conversation: 'menu',
+    conversation: 'hola',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'menu',
+  body: 'hola',
   from: '5215545165166'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9184be71-b355-4546-a43a-e5cee2c6b6be',
-  keyword: 'key_ded45260-8171-4081-af2f-76f453405f08',
-  answer: 'Elegi una de estas opciones:\n' +
-    '\n' +
-    'Opcion 1 - Menu\n' +
-    'Opcion 2 - Reservar\n' +
-    'Opcion 3 - Hacer Consultas\n' +
-    '\n' +
-    'Opcion 0- Salir',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '424cb4755ea28a7822ffeb9b142e60e2'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5215545165166@s.whatsapp.net',
-    fromMe: false,
-    id: '3A4C741932E3F2DB610C',
-    participant: undefined
-  },
-  messageTimestamp: 1737865094,
-  pushName: 'Marcos 🍊',
-  broadcast: false,
-  message: Message {
-    conversation: '3',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '3',
-  from: '5215545165166'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5215545165166@s.whatsapp.net',
-    fromMe: false,
-    id: '3AB74EB47E3F6C883E0A',
-    participant: undefined
-  },
-  messageTimestamp: 1737865106,
-  pushName: 'Marcos 🍊',
-  broadcast: false,
-  message: Message {
-    conversation: 'Dime que entradas tienen',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Dime que entradas tienen',
-  from: '5215545165166'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5215545165166@s.whatsapp.net',
-    fromMe: false,
-    id: '3A47131F94DE4908DAF4',
-    participant: undefined
-  },
-  messageTimestamp: 1737865120,
-  pushName: 'Marcos 🍊',
-  broadcast: false,
-  message: Message {
-    conversation: 'cuanto cuestan las papas',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'cuanto cuestan las papas',
-  from: '5215545165166'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_45c83b00-afb5-4b1f-9dc5-0bf7e5637d3e',
-  keyword: 'key_d3cb3e7e-7778-4689-92b2-180e430ee741',
-  answer: 'Este es el flujo welcome',
+  ref: 'ans_9fdfe366-8ac9-4413-8531-b2afa77e38bd',
+  keyword: 'key_b4883b8f-5b17-4aeb-bb7f-dc5e7c1e24dc',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
   options: {
     media: null,
     buttons: [],
     capture: false,
     child: null,
-    delay: 100,
+    delay: 0,
     idle: null,
     ref: null,
     nested: [],
     keyword: {},
-    callback: true
+    callback: false
   },
-  refSerialize: 'f4d6f6be3e00c561c6b0ca4e94c24b7b'
+  refSerialize: '9f2e72f156c20e25aa05a26b8386c574'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00a65a37-f786-4c03-801c-c610433b0f6a',
+  keyword: 'ans_9fdfe366-8ac9-4413-8531-b2afa77e38bd',
+  answer: 'Como estas carnal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2694fa75cd17a3d9864a315f7c30250d'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5215545165166@s.whatsapp.net',
     fromMe: false,
-    id: '3A0CED9EDB746A4EA2F9',
+    id: '3A7824BF059FBA5A99F5',
     participant: undefined
   },
-  messageTimestamp: 1737865135,
+  messageTimestamp: 1737937572,
   pushName: 'Marcos 🍊',
   broadcast: false,
   message: Message {
@@ -146,8 +77,8 @@
   from: '5215545165166'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9184be71-b355-4546-a43a-e5cee2c6b6be',
-  keyword: 'key_ded45260-8171-4081-af2f-76f453405f08',
+  ref: 'ans_e058a178-1796-4897-855a-58b15f9505d0',
+  keyword: 'key_16f4d11a-fd55-4edb-a423-1efe07354c6b',
   answer: 'Elegi una de estas opciones:\n' +
     '\n' +
     'Opcion 1 - Menu\n' +
@@ -167,47 +98,92 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '424cb4755ea28a7822ffeb9b142e60e2'
+  refSerialize: '45d33cd20f59e86098b78271a1a43ef3'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5215545165166@s.whatsapp.net',
     fromMe: false,
-    id: '3A78E978C1BC223BB729',
+    id: '3AC37C378EC6F94B8DE0',
     participant: undefined
   },
-  messageTimestamp: 1737865138,
+  messageTimestamp: 1737937575,
   pushName: 'Marcos 🍊',
   broadcast: false,
   message: Message {
-    conversation: '3',
+    conversation: '2',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '3',
+  body: '2',
   from: '5215545165166'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5215545165166@s.whatsapp.net',
     fromMe: false,
-    id: '3AB402377B0A460376D5',
+    id: '3A34FF53CFF4A9242ABA',
     participant: undefined
   },
-  messageTimestamp: 1737865145,
+  messageTimestamp: 1737937579,
   pushName: 'Marcos 🍊',
   broadcast: false,
   message: Message {
-    conversation: 'Cual es el costo de las papas?',
+    conversation: 'menu',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Cual es el costo de las papas?',
+  body: 'menu',
+  from: '5215545165166'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e058a178-1796-4897-855a-58b15f9505d0',
+  keyword: 'key_16f4d11a-fd55-4edb-a423-1efe07354c6b',
+  answer: 'Elegi una de estas opciones:\n' +
+    '\n' +
+    'Opcion 1 - Menu\n' +
+    'Opcion 2 - Reservar\n' +
+    'Opcion 3 - Hacer Consultas\n' +
+    '\n' +
+    'Opcion 0- Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '45d33cd20f59e86098b78271a1a43ef3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215545165166@s.whatsapp.net',
+    fromMe: false,
+    id: '3A86D378D1AB0F7BA811',
+    participant: undefined
+  },
+  messageTimestamp: 1737937582,
+  pushName: 'Marcos 🍊',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '0',
   from: '5215545165166'
 }

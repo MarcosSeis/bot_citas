@@ -10,10 +10,12 @@ require('dotenv').config();
 const { flowConsultas } = require('./flows/flowConsultas');
 const { flowMenuRest } = require('./flows/flowMenuRest');
 const { flowReservar } = require('./flows/flowReservar');
+const { flowVoiceNotes } = require('./flows/flowVoiceNotes');
 
 const QRPortalWeb = require('@bot-whatsapp/portal');
 const BaileysProvider = require('@bot-whatsapp/provider/baileys');
-const MockAdapter = require('@bot-whatsapp/database/mock');
+//const MockAdapter = require('@bot-whatsapp/database/mock');
+const MongoAdapter = require('@bot-whatsapp/database/mongo');
 const { delay } = require('@whiskeysockets/baileys');
 const path = require('path');
 const fs = require('fs');
@@ -60,7 +62,10 @@ const menuFlow = addKeyword('menu').addAnswer(
 );
 
 const main = async () => {
-  const adapterDB = new MockAdapter();
+  const adapterDB = new MongoAdapter({
+    dbUri: process.env.MONGO_DB_URI,
+    dbName: 'chatBot_test',
+  });
   const adapterFlow = createFlow([
     flowPrincipal,
     flowWelcome,
@@ -68,6 +73,7 @@ const main = async () => {
     flowMenuRest,
     flowConsultas,
     flowReservar,
+    flowVoiceNotes,
   ]);
   const adapterProvider = createProvider(BaileysProvider);
 
